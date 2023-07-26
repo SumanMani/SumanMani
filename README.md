@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SumanMani
 - 👀 I’m interested in learning new things and updating my skills
-- 🌱 I’m currently learning Advanced Certification Program in Data Analytics from Edubridge Learning
+- 🌱 I’m Completed Advanced Certification Program in Data Analytics from Edubridge Learning
 - 💞️ I’m looking to collaborate on Data Aalytics Project
 - 📫 Connect with me
                           Gmail  - sman8698@gmail.com
